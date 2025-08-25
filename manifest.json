@@ -11,7 +11,7 @@
       "changelog": "- Prima versione stabile",
       "targetAbi": "10.10.7.0",
       "sourceUrl": "https://github.com/fritzproject/Jellyfin-Plugin-AudioLangBadges-dev/releases/download/1.0.0.0/AudioLangBadges.zip",
-      "checksum": "6b2d11715405e9bf6750c3652d1418aaae132a6c702a711b1297eb445cb8f6f7",
+      "checksum": "48b3448e3f0eebe32f8835faf38cb52811875ab11ad791b396bb12150c783940",
       "timestamp": "2025-08-26T12:00:00Z"
     }
   ]
