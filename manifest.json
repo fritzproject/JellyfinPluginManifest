@@ -1,10 +1,20 @@
 [
   {
-    "Name": "Audio Language Badges",
-    "Id": "ddb21b8d-fbb6-441c-b97f-a614cdfd486d",
-    "Version": "1.0.0.0",
-    "Url": "https://raw.githubusercontent.com/fritzproject/Jellyfin-Plugin-AudioLangBadges-dev/latest/AudioLangBadges.zip",
-    "Description": "Aggiunge overlay di bandierine in base alle tracce audio.",
-    "Category": "Metadata"
+    "guid": "ddb21b8d-fbb6-441c-b97f-a614cdfd486d",
+    "name": "Audio Language Badges",
+    "overview": "Aggiunge overlay di bandierine in base alle tracce audio",
+    "description": "Overlay di bandierine sulle tracce audio per Jellyfin",
+    "owner": "fritzproject",
+    "category": "Metadata",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "changelog": "- Prima versione stabile",
+        "targetAbi": "10.10.7.0",
+        "sourceUrl": "https://raw.githubusercontent.com/fritzproject/Jellyfin-Plugin-AudioLangBadges-dev/latest/AudioLangBadges.zip",
+        "checksum": "inserisci_il_checksum_del_zip",
+        "timestamp": "2025-08-26T12:00:00Z"
+      }
+    ]
   }
 ]
