@@ -3,7 +3,7 @@
     "Name": "Audio Language Badges",
     "Id": "ddb21b8d-fbb6-441c-b97f-a614cdfd486d",
     "Version": "1.0.0.0",
-    "Url": "https://raw.githubusercontent.com/fritzproject/AudioLangBadges/latest/AudioLangBadges.zip",
+    "Url": "https://raw.githubusercontent.com/fritzproject/Jellyfin-Plugin-AudioLangBadges-dev/latest/AudioLangBadges.zip",
     "Description": "Aggiunge overlay di bandierine in base alle tracce audio.",
     "Category": "Metadata"
   }
